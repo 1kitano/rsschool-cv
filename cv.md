@@ -21,4 +21,4 @@ function multiply(a, b) {
 ## **Language:**
 * Russian - *native*
 * Belarusian - *native*
-* English - *B2 level via [EFSET](https://www.efset.org/)*
+* English - *B2 lvl via [EFSET](https://www.efset.org/)*
